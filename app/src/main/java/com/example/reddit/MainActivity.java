@@ -45,4 +45,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
     }
+
+    // попытки создать recyclerVie и DownloadListener не уверчались успехом, подозреваю, что нужно было делать не через webView, а через api:)  пошла учиться работать с api:)
+
 }
